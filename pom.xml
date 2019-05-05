@@ -2,10 +2,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.redhat.summit2019</groupId>
-  <artifactId>insult-adjectives</artifactId>
+  <artifactId>insult-starter-vertx</artifactId>
   <version>1.0.0</version>
   <packaging>jar</packaging>
-  <name>Vert.x Insult Adjectives Service</name>
+  <name>Vert.x Insult App Starter</name>
   <description>Red Hat Summit 2019 Insult Workshop Starter App</description>
   <properties>
     <vertx.version>3.6.3.redhat-00009</vertx.version>
